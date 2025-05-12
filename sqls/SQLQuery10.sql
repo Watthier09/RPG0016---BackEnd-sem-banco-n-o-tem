@@ -1,0 +1,1 @@
+GRANT ALTER ANY USER TO [dbo];

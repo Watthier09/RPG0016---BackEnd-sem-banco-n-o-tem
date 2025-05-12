@@ -1,0 +1,1 @@
+ALTER LOGIN loja WITH PASSWORD = 'loja';
